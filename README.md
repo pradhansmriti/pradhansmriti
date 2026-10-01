@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, welcome to my repo! 
+
+About me:
+- I recently finished my PhD working on understanding the dynamics of HBV assembly and the effects of small molecules on the assembly process. I'll soon add a link to a blog about it's details.
+- I'm now working on some cool independent projects that are a combination of my previous research experience + teaching me a lot of new technical tools at the frontier of ai/ml for sciences, especially biophysics. I'll also add a link soon.
+- You can email me at: smritipradhan98@gmail.com
+- You can find more about me at: pradhansmriti.github.io or linkedin.com/in/pradhan-smriti
+
+Always happy to hear from people and learn about the cool stuff they're working on and happy to share my research/project ideas and get feedback!
 
 <!--
 **pradhansmriti/pradhansmriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
